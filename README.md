@@ -10,4 +10,4 @@
 - todesk安全密码过长时，安全密码出现的位置比较随机无标识可参考，暂时不支持获取
 
 **实测可过火绒**
-![image](https://github.com/user-attachments/assets/b6756ea7-7068-4f36-a88f-af51481d378f)
+![image](https://github.com/user-attachments/assets/6a8986e8-eb9c-4e5e-8a3c-ace79d0bc658)
